@@ -4,6 +4,7 @@
 💻 Curso Análise e Desenvolvimento de Sistemas <br>
 ❤️Sou apaixonado por tecnologia e videogames 🎮 <br>
 😬 Tenho interesse pela carreira de Front-End e aberto a novos aprendizados<br>
+📝 Meu nível de inglês é intermediário, faço aulas focadas em conversação<br> 
 ⏳ Possuo graduação em História - licenciatura
 
 <h2> Estou aprendendo no momento 🚀 </h2>

@@ -3,8 +3,8 @@
 
 💻 Curso Análise e Desenvolvimento de Sistemas <br>
 ❤️Sou apaixonado por tecnologia e videogames 🎮 <br>
-😬 Tenho interesse pela carreira de Front-End, mas aberto a novos aprendizados<br>
-⏳ Já possuo graduação em História - licenciatura
+😬 Tenho interesse pela carreira de Front-End e aberto a novos aprendizados<br>
+⏳ Possuo graduação em História - licenciatura
 
 <h2> Estou aprendendo no momento 🚀 </h2>
 

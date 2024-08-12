@@ -1,9 +1,9 @@
 <h1> Olá, Bem Vindo(a) ao meu GitHub 👋 </h1>
  <h2> Meu nome é Pedro Henrique 😄 </h2>
 
-💻 Curso Análise e Desenvolvimento de Sistemas <br>
+💻 Formado em Análise e Desenvolvimento de Sistemas <br>
 ❤️Sou apaixonado por tecnologia e videogames 🎮 <br>
-😬 Tenho interesse pela carreira de Front-End e estou sempre aberto a novos aprendizados<br>
+😬 Tenho interesse pela área de Cybersecurity e estou sempre aberto a novos aprendizados<br>
 📝 Meu nível de inglês é intermediário, faço aulas focadas em conversação<br> 
 ⏳ Possuo graduação em História - licenciatura
 
